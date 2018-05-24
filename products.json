@@ -1,0 +1,66 @@
+[
+    {
+        "id": "shoe_1",
+        "category": "shoe",
+        "product_name": "Shoe Product 1",
+        "amount" : "24.99",
+        "img_name": "peak_sneaker.jpg"
+    },
+    {
+        "id": "shoe_2",
+        "category": "shoe",
+        "product_name": "Shoe Product 2",
+        "amount" : "64.99",
+        "img_name": "scrapper_sneaker.jpg"
+    },
+    {
+        "id": "shoe_3",
+        "category": "shoe",
+        "product_name": "Shoe Product 3",
+        "amount" : "74.99",
+        "img_name": "ash_sneaker.jpg"
+    },
+    {
+        "id": "bag_1",
+        "category": "bag",
+        "product_name": "Bag Product 1",
+        "amount" : "84.99",
+        "img_name": "travelling_bag.jpg"
+    },
+    {
+        "id": "bag_2",
+        "category": "bag",
+        "product_name": "Bag Product 2",
+        "amount" : "94.99",
+        "img_name": "multi_bag.jpg"
+    },
+    {
+        "id": "bag_3",
+        "category": "bag",
+        "product_name": "Bag Product 3",
+        "amount" : "70.20",
+        "img_name": "women_bag.jpg"
+    },
+    {
+        "id": "polo_1",
+        "category": "polo",
+        "product_name": "Polo Product 1",
+        "amount" : "120.20",
+        "img_name": "ducati_polo.jpg"
+    },
+    {
+        "id": "polo_2",
+        "category": "polo",
+        "product_name": "Polo Product 2",
+        "amount" : "97.00",
+        "img_name": "female_red_polo.jpg"
+    },
+    {
+        "id": "polo_3",
+        "category": "polo",
+        "product_name": "Polo Product 3",
+        "amount" : "56.00",
+        "img_name": "itech_polo.jpg"
+    }
+
+]
