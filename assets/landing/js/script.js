@@ -136,7 +136,7 @@ $(function() {
       var amount = get_total().toFixed();
       amount = amount * 100;
       var handler = PaystackPop.setup({
-        key: 'pk_test_1cb622d5aceadc646a389055ce2aed8b36fb092f',
+        key: '{Payment_key}',
         email: email,
         amount: amount,
         callback: function( response ){
